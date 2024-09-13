@@ -1,0 +1,8 @@
+.jake{
+  color: blue;
+}
+
+.disable {
+  pointer-events: none;
+  opacity: 0.5;
+}
